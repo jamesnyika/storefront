@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sp_instance">
+    <sp_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <class_name/>
+        <color>info</color>
+        <css/>
+        <glyph/>
+        <id/>
+        <order>1</order>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="1">855b921613b49300f60ebccf3244b0f9</sp_column>
+        <sp_widget display_value="SC Categories">4c03cba0cb11020000f8d856634c9ce1</sp_widget>
+        <sys_class_name>sp_instance</sys_class_name>
+        <sys_created_by>jnyika</sys_created_by>
+        <sys_created_on>2018-03-14 14:31:25</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>2d230a9e13349300f60ebccf3244b0f8</sys_id>
+        <sys_mod_count>8</sys_mod_count>
+        <sys_name>Categories</sys_name>
+        <sys_package display_value="DISA-Store" source="x_snc_disa_store">b5a0e15e13b09300f60ebccf3244b005</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="DISA-Store">b5a0e15e13b09300f60ebccf3244b005</sys_scope>
+        <sys_update_name>sp_instance_2d230a9e13349300f60ebccf3244b0f8</sys_update_name>
+        <sys_updated_by>jnyika</sys_updated_by>
+        <sys_updated_on>2018-03-14 23:49:00</sys_updated_on>
+        <title>Categories</title>
+        <url/>
+        <widget_parameters><![CDATA[{
+	"hide_xs": {
+		"value": "",
+		"displayValue": ""
+	},
+	"omit_badges": {
+		"value": false,
+		"displayValue": false
+	},
+	"check_can_view": {
+		"value": true,
+		"displayValue": true
+	},
+	"category_layout": {
+		"value": "",
+		"displayValue": ""
+	},
+	"page": {
+		"value": "",
+		"displayValue": ""
+	},
+	"number_of_categories_to_load": {
+		"value": null,
+		"displayValue": ""
+	}
+}]]></widget_parameters>
+    </sp_instance>
+</record_update>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="question_choice">
+    <question_choice action="INSERT_OR_UPDATE">
+        <misc>0</misc>
+        <order>100</order>
+        <question display_value="Services Selection ">6d4fc31a13789300f60ebccf3244b0c7</question>
+        <rec_misc>0</rec_misc>
+        <sys_class_name>question_choice</sys_class_name>
+        <sys_created_by>jnyika</sys_created_by>
+        <sys_created_on>2018-03-14 20:09:58</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>2d80975a13789300f60ebccf3244b05f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Standard Template</sys_name>
+        <sys_package display_value="DISA-Store" source="x_snc_disa_store">b5a0e15e13b09300f60ebccf3244b005</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="DISA-Store">b5a0e15e13b09300f60ebccf3244b005</sys_scope>
+        <sys_update_name>question_choice_2d80975a13789300f60ebccf3244b05f</sys_update_name>
+        <sys_updated_by>jnyika</sys_updated_by>
+        <sys_updated_on>2018-03-14 20:09:58</sys_updated_on>
+        <text>Standard Template</text>
+        <value>1</value>
+    </question_choice>
+    <fx_price action="delete_multiple" query="id=2d80975a13789300f60ebccf3244b05f"/>
+    <fx_price action="INSERT_OR_UPDATE">
+        <amount>0</amount>
+        <currency display_value="USD">USD</currency>
+        <field>misc</field>
+        <id>2d80975a13789300f60ebccf3244b05f</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>jnyika</sys_created_by>
+        <sys_created_on>2018-03-14 20:09:58</sys_created_on>
+        <sys_id>7ca0975a13789300f60ebccf3244b015</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>jnyika</sys_updated_by>
+        <sys_updated_on>2018-03-14 20:09:58</sys_updated_on>
+        <table>question_choice</table>
+        <type>calculated</type>
+    </fx_price>
+    <fx_price action="INSERT_OR_UPDATE">
+        <amount>0</amount>
+        <currency display_value="USD">USD</currency>
+        <field>rec_misc</field>
+        <id>2d80975a13789300f60ebccf3244b05f</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>jnyika</sys_created_by>
+        <sys_created_on>2018-03-14 20:09:58</sys_created_on>
+        <sys_id>34a0975a13789300f60ebccf3244b015</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>jnyika</sys_updated_by>
+        <sys_updated_on>2018-03-14 20:09:58</sys_updated_on>
+        <table>question_choice</table>
+        <type>calculated</type>
+    </fx_price>
+</record_update>

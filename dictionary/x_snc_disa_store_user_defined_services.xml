@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="User Defined Services" max_length="40" name="x_snc_disa_store_user_defined_services" type="collection">
+        <element default="True" label="Available" max_length="40" name="available" type="boolean"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Service Code" max_length="40" name="service_code" type="string"/>
+        <element label="Service Description" max_length="4000" name="service_description" type="string"/>
+        <element display="true" label="Service Name" max_length="200" name="service_name" type="string"/>
+        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <element label="Unit Cost" max_length="20" name="unit_cost" type="currency"/>
+    </element>
+</database>

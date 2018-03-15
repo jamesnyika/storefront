@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="sys_import_set_row" label="Imp Tmpl X Snc Disa Store User Defined Services" max_length="40" name="u_imp_tmpl_x_snc_disa_store_user_defined_services" type="collection">
+        <element attributes="import_attribute_name=Available,edge_encryption_enabled=true" label="Available" max_length="40" name="u_available" type="string"/>
+        <element attributes="import_attribute_name=Service Code,edge_encryption_enabled=true" label="Service Code" max_length="40" name="u_service_code" type="string"/>
+        <element attributes="import_attribute_name=Service Description,edge_encryption_enabled=true" label="Service Description" max_length="4000" name="u_service_description" type="string"/>
+        <element attributes="import_attribute_name=Service Name,edge_encryption_enabled=true" label="Service Name" max_length="200" name="u_service_name" type="string"/>
+        <element attributes="import_attribute_name=Unit Cost" label="Unit Cost" max_length="20" name="u_unit_cost" type="integer"/>
+    </element>
+</database>

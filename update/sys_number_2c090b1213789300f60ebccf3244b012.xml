@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_number">
+    <sys_number action="INSERT_OR_UPDATE">
+        <category display_value="" name="x_snc_disa_store_environment_purchase_options">x_snc_disa_store_environment_purchase_options</category>
+        <maximum_digits>7</maximum_digits>
+        <number>1000</number>
+        <prefix>ENVO</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>jnyika</sys_created_by>
+        <sys_created_on>2018-03-14 19:36:39</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>2c090b1213789300f60ebccf3244b012</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ENVO</sys_name>
+        <sys_package display_value="DISA-Store" source="x_snc_disa_store">b5a0e15e13b09300f60ebccf3244b005</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="DISA-Store">b5a0e15e13b09300f60ebccf3244b005</sys_scope>
+        <sys_update_name>sys_number_2c090b1213789300f60ebccf3244b012</sys_update_name>
+        <sys_updated_by>jnyika</sys_updated_by>
+        <sys_updated_on>2018-03-14 19:36:39</sys_updated_on>
+    </sys_number>
+</record_update>

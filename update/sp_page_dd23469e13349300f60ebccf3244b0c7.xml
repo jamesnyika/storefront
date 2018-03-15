@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sp_page">
+    <sp_page action="INSERT_OR_UPDATE">
+        <category>sc</category>
+        <css>.carousel-row .col-md-12 {
+  padding-left: 0;
+  padding-right: 0;
+}
+
+.pull-in {
+  margin-left: 0;
+  margin-right: 0;
+}
+
+.ts-float-right {
+  float: right;
+}
+
+
+.base
+{
+   height : 100vh;
+}
+.headerstyle
+{
+   display:table-cell;
+   vertical-align:middle;
+   
+}
+
+.glassbase
+{
+  background-color : rgba(0,0,0,0.15);
+  padding : 5px;
+  
+}
+
+.crumbstyle
+{
+  background-color : rgba(0,0,0,0.2);
+  color : white !important; 
+  height : 50px;
+  margin-bottom: 25px !important;
+  margin-top: 25px !important;
+
+}
+
+</css>
+        <draft>false</draft>
+        <dynamic_title_structure/>
+        <id>disa_catalog_home</id>
+        <internal>false</internal>
+        <public>false</public>
+        <roles>snc_external,snc_internal</roles>
+        <short_description/>
+        <sys_class_name>sp_page</sys_class_name>
+        <sys_created_by>jnyika</sys_created_by>
+        <sys_created_on>2018-03-14 14:31:24</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>dd23469e13349300f60ebccf3244b0c7</sys_id>
+        <sys_mod_count>23</sys_mod_count>
+        <sys_name>disa_catalog_home</sys_name>
+        <sys_package display_value="DISA-Store" source="x_snc_disa_store">b5a0e15e13b09300f60ebccf3244b005</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="DISA-Store">b5a0e15e13b09300f60ebccf3244b005</sys_scope>
+        <sys_update_name>sp_page_dd23469e13349300f60ebccf3244b0c7</sys_update_name>
+        <sys_updated_by>jnyika</sys_updated_by>
+        <sys_updated_on>2018-03-15 02:05:02</sys_updated_on>
+        <title>DISA Catalog Home</title>
+    </sp_page>
+</record_update>

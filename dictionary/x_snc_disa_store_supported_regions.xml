@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Supported Regions" max_length="40" name="x_snc_disa_store_supported_regions" type="collection">
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Region Code" max_length="40" name="region_code" type="string"/>
+        <element display="true" label="Region Name" max_length="40" name="region_name" type="string"/>
+        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+    </element>
+</database>

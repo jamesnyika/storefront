@@ -10,7 +10,7 @@
         <choice_table>x_snc_disa_store_environment_purchase_options</choice_table>
         <create_roles/>
         <default_html_value/>
-        <default_value/>
+        <default_value>2</default_value>
         <delete_roles/>
         <delivery_plan/>
         <description/>
@@ -62,7 +62,7 @@ If Extension Node is selected, then you will follow a different process</help_te
         <sys_created_on>2018-03-14 19:38:24</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
         <sys_id>48b707de13389300f60ebccf3244b097</sys_id>
-        <sys_mod_count>9</sys_mod_count>
+        <sys_mod_count>11</sys_mod_count>
         <sys_name>Procurement or Extension</sys_name>
         <sys_package display_value="DISA-Store" source="x_snc_disa_store">b5a0e15e13b09300f60ebccf3244b005</sys_package>
         <sys_policy/>
@@ -70,7 +70,7 @@ If Extension Node is selected, then you will follow a different process</help_te
         <sys_scope display_value="DISA-Store">b5a0e15e13b09300f60ebccf3244b005</sys_scope>
         <sys_update_name>item_option_new_48b707de13389300f60ebccf3244b097</sys_update_name>
         <sys_updated_by>jnyika</sys_updated_by>
-        <sys_updated_on>2018-03-14 20:21:03</sys_updated_on>
+        <sys_updated_on>2018-03-15 02:40:13</sys_updated_on>
         <table/>
         <tooltip/>
         <type>3</type>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="Enduring Enclave">752de86213fc9300f60ebccf3244b02f</sc_cat_item>
+        <sc_category display_value="Environments">23a2f95e13f09300f60ebccf3244b096</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>jnyika</sys_created_by>
+        <sys_created_on>2018-03-15 02:54:10</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>b12de86213fc9300f60ebccf3244b037</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Environments.Episodic Enclave</sys_name>
+        <sys_package display_value="DISA-Store" source="x_snc_disa_store">b5a0e15e13b09300f60ebccf3244b005</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="DISA-Store">b5a0e15e13b09300f60ebccf3244b005</sys_scope>
+        <sys_update_name>sc_cat_item_category_b12de86213fc9300f60ebccf3244b037</sys_update_name>
+        <sys_updated_by>jnyika</sys_updated_by>
+        <sys_updated_on>2018-03-15 02:54:10</sys_updated_on>
+    </sc_cat_item_category>
+</record_update>

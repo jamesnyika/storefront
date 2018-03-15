@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>5865d0ea137c9300f60ebccf3244b08e</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="x_snc_disa_store_user_defined_services">
+    <x_snc_disa_store_user_defined_services action="INSERT_OR_UPDATE">
+        <available>true</available>
+        <number>USEDEFSER0001021</number>
+        <service_code>SMERD</service_code>
+        <service_description>Dedicated Subject matter Expert or  vendor support forward stationed at remote locations that you choose for the mission enclave</service_description>
+        <service_name>Dedicated SME Support</service_name>
+        <sys_class_name>x_snc_disa_store_user_defined_services</sys_class_name>
+        <sys_created_by>jnyika</sys_created_by>
+        <sys_created_on>2018-03-15 01:10:18</sys_created_on>
+        <sys_id>5865d0ea137c9300f60ebccf3244b08e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>jnyika</sys_updated_by>
+        <sys_updated_on>2018-03-15 01:10:18</sys_updated_on>
+        <unit_cost>77000</unit_cost>
+    </x_snc_disa_store_user_defined_services>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>jnyika</sys_created_by>
+        <sys_created_on>2018-03-15 02:11:41</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>e363642a13bc9300f60ebccf3244b07b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Dedicated SME Support</sys_name>
+        <sys_package display_value="DISA-Store" source="x_snc_disa_store">b5a0e15e13b09300f60ebccf3244b005</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="DISA-Store">b5a0e15e13b09300f60ebccf3244b005</sys_scope>
+        <sys_update_name>sys_metadata_link_e363642a13bc9300f60ebccf3244b07b</sys_update_name>
+        <sys_updated_by>jnyika</sys_updated_by>
+        <sys_updated_on>2018-03-15 02:11:41</sys_updated_on>
+        <tablename>x_snc_disa_store_user_defined_services</tablename>
+    </sys_metadata_link>
+</record_update>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>c3e94b5213789300f60ebccf3244b062</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="x_snc_disa_store_environment_purchase_options">
+    <x_snc_disa_store_environment_purchase_options action="INSERT_OR_UPDATE">
+        <number>ENVO0001002</number>
+        <option_name>Extension Node</option_name>
+        <option_value>2</option_value>
+        <sys_class_name>x_snc_disa_store_environment_purchase_options</sys_class_name>
+        <sys_created_by>jnyika</sys_created_by>
+        <sys_created_on>2018-03-14 19:40:51</sys_created_on>
+        <sys_id>c3e94b5213789300f60ebccf3244b062</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>jnyika</sys_updated_by>
+        <sys_updated_on>2018-03-14 19:40:51</sys_updated_on>
+    </x_snc_disa_store_environment_purchase_options>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>jnyika</sys_created_by>
+        <sys_created_on>2018-03-15 02:11:01</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>6543a02a13bc9300f60ebccf3244b059</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="DISA-Store" source="x_snc_disa_store">b5a0e15e13b09300f60ebccf3244b005</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="DISA-Store">b5a0e15e13b09300f60ebccf3244b005</sys_scope>
+        <sys_update_name>sys_metadata_link_6543a02a13bc9300f60ebccf3244b059</sys_update_name>
+        <sys_updated_by>jnyika</sys_updated_by>
+        <sys_updated_on>2018-03-15 02:11:01</sys_updated_on>
+        <tablename>x_snc_disa_store_environment_purchase_op</tablename>
+    </sys_metadata_link>
+</record_update>

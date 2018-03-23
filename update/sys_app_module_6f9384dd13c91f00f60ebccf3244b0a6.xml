@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="DISA Store Settings">c809c71213789300f60ebccf3244b0a1</application>
+        <assessment/>
+        <content_page/>
+        <device_type/>
+        <filter table="sc_request">active=true^short_descriptionLIKEEnclave^EQ<item endquery="false" field="active" goto="false" newquery="false" operator="=" or="false" value="true"/>
+            <item endquery="false" field="short_description" goto="false" newquery="false" operator="LIKE" or="false" value="Enclave"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </filter>
+        <hint>Items Requested from Store</hint>
+        <homepage/>
+        <image>images/icons/assigned_tome.gif</image>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>Requested Items</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>sc_request</name>
+        <order>472</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles/>
+        <survey/>
+        <survey_overwrite>true</survey_overwrite>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>jnyika</sys_created_by>
+        <sys_created_on>2018-03-23 12:55:59</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>6f9384dd13c91f00f60ebccf3244b0a6</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>sc_request</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="DISA-Store" source="x_snc_disa_store">b5a0e15e13b09300f60ebccf3244b005</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="DISA-Store">b5a0e15e13b09300f60ebccf3244b005</sys_scope>
+        <sys_update_name>sys_app_module_6f9384dd13c91f00f60ebccf3244b0a6</sys_update_name>
+        <sys_updated_by>jnyika</sys_updated_by>
+        <sys_updated_on>2018-03-23 18:02:43</sys_updated_on>
+        <timeline_page/>
+        <title>Store Requested Items</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+</record_update>

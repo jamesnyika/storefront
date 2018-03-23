@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_snc_disa_store.funding_thresholds_user" name="x_snc_disa_store.funding_thresholds_user">b632acdd134d1f00f60ebccf3244b0ba</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>jnyika</sys_created_by>
+        <sys_created_on>2018-03-23 15:09:45</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>7632acdd134d1f00f60ebccf3244b0bd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>b632acdd134d1f00f60ebccf3244b0ba</sys_name>
+        <sys_package display_value="DISA-Store" source="x_snc_disa_store">b5a0e15e13b09300f60ebccf3244b005</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="DISA-Store">b5a0e15e13b09300f60ebccf3244b005</sys_scope>
+        <sys_update_name>sys_embedded_help_role_7632acdd134d1f00f60ebccf3244b0bd</sys_update_name>
+        <sys_updated_by>jnyika</sys_updated_by>
+        <sys_updated_on>2018-03-23 15:09:45</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

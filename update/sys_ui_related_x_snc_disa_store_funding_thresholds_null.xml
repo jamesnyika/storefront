@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_related sys_domain="global" table="x_snc_disa_store_funding_thresholds" version="2" view="">
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Funding Thresholds - Default view" name="x_snc_disa_store_funding_thresholds" related_list="NULL" sys_domain="global" view="Default view">fcb73c1513cd1f00f60ebccf3244b0d9</list_id>
+            <order_by/>
+            <position>0</position>
+            <related_list>x_snc_disa_store_request_funding.funding_source</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>jnyika</sys_created_by>
+            <sys_created_on>2018-03-23 16:43:33</sys_created_on>
+            <sys_id>30b73c1513cd1f00f60ebccf3244b0db</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>jnyika</sys_updated_by>
+            <sys_updated_on>2018-03-23 16:43:33</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list action="INSERT_OR_UPDATE">
+            <calculated_name>Funding Thresholds - Default view</calculated_name>
+            <filter/>
+            <name>x_snc_disa_store_funding_thresholds</name>
+            <order_by/>
+            <position/>
+            <related_list/>
+            <sys_class_name>sys_ui_related_list</sys_class_name>
+            <sys_created_by>jnyika</sys_created_by>
+            <sys_created_on>2018-03-23 16:43:33</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>fcb73c1513cd1f00f60ebccf3244b0d9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Funding Thresholds - Default view</sys_name>
+            <sys_package display_value="DISA-Store" source="x_snc_disa_store">b5a0e15e13b09300f60ebccf3244b005</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="DISA-Store">b5a0e15e13b09300f60ebccf3244b005</sys_scope>
+            <sys_update_name>sys_ui_related_x_snc_disa_store_funding_thresholds_null</sys_update_name>
+            <sys_updated_by>jnyika</sys_updated_by>
+            <sys_updated_on>2018-03-23 16:43:33</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_related_list>
+    </sys_ui_related>
+</record_update>

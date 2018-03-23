@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Funding Thresholds" max_length="40" name="x_snc_disa_store_funding_thresholds" type="collection">
+        <element label="Budget" max_length="32" name="budget" reference="fm_budget" type="reference"/>
+        <element label="Ceiling Amount" max_length="20" name="ceiling_amount" type="currency"/>
+        <element display="true" label="Name" max_length="40" name="name" type="string"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Replenishment Amount" max_length="20" name="replenishment_amount" type="currency"/>
+        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <element label="Year" max_length="32" name="year" reference="fiscal_period" type="reference"/>
+        <index name="index">
+            <element name="year"/>
+        </index>
+        <index name="index2">
+            <element name="budget"/>
+        </index>
+    </element>
+</database>

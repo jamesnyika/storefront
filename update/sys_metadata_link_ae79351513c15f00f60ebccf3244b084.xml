@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>2718f45513cd1f00f60ebccf3244b020</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="x_snc_disa_store_request_funding">
+    <x_snc_disa_store_request_funding action="INSERT_OR_UPDATE">
+        <funding_source display_value="FY2018 Infrastructure Budget">bb02f8dd138d1f00f60ebccf3244b047</funding_source>
+        <number>REQFUN0001001</number>
+        <request display_value="REQ0009168">56ef382654f032004e82cd96000d45b4</request>
+        <sys_class_name>x_snc_disa_store_request_funding</sys_class_name>
+        <sys_created_by>jnyika</sys_created_by>
+        <sys_created_on>2018-03-23 16:46:05</sys_created_on>
+        <sys_id>2718f45513cd1f00f60ebccf3244b020</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>jnyika</sys_updated_by>
+        <sys_updated_on>2018-03-23 16:46:05</sys_updated_on>
+    </x_snc_disa_store_request_funding>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>jnyika</sys_created_by>
+        <sys_created_on>2018-03-23 21:30:56</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>ae79351513c15f00f60ebccf3244b084</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>REQFUN0001001</sys_name>
+        <sys_package display_value="DISA-Store" source="x_snc_disa_store">b5a0e15e13b09300f60ebccf3244b005</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="DISA-Store">b5a0e15e13b09300f60ebccf3244b005</sys_scope>
+        <sys_update_name>sys_metadata_link_ae79351513c15f00f60ebccf3244b084</sys_update_name>
+        <sys_updated_by>jnyika</sys_updated_by>
+        <sys_updated_on>2018-03-23 21:30:56</sys_updated_on>
+        <tablename>x_snc_disa_store_request_funding</tablename>
+    </sys_metadata_link>
+</record_update>

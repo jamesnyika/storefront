@@ -5,13 +5,13 @@
             <element>.begin_split</element>
             <position>0</position>
             <sys_created_by>jnyika</sys_created_by>
-            <sys_created_on>2018-03-23 16:18:54</sys_created_on>
-            <sys_id>3702f8dd138d1f00f60ebccf3244b034</sys_id>
+            <sys_created_on>2018-03-28 22:49:06</sys_created_on>
+            <sys_id>905bbffe1341d340f60ebccf3244b000</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_snc_disa_store_funding_thresholds" sys_domain="global" view="Default view">b302f8dd138d1f00f60ebccf3244b01f</sys_ui_section>
             <sys_updated_by>jnyika</sys_updated_by>
-            <sys_updated_on>2018-03-23 16:18:54</sys_updated_on>
+            <sys_updated_on>2018-03-28 22:49:06</sys_updated_on>
             <sys_user/>
             <type>.begin_split</type>
         </sys_ui_element>
@@ -19,13 +19,13 @@
             <element>number</element>
             <position>1</position>
             <sys_created_by>jnyika</sys_created_by>
-            <sys_created_on>2018-03-23 16:18:54</sys_created_on>
-            <sys_id>3f02f8dd138d1f00f60ebccf3244b034</sys_id>
+            <sys_created_on>2018-03-28 22:49:06</sys_created_on>
+            <sys_id>145bbffe1341d340f60ebccf3244b000</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_snc_disa_store_funding_thresholds" sys_domain="global" view="Default view">b302f8dd138d1f00f60ebccf3244b01f</sys_ui_section>
             <sys_updated_by>jnyika</sys_updated_by>
-            <sys_updated_on>2018-03-23 16:18:54</sys_updated_on>
+            <sys_updated_on>2018-03-28 22:49:06</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -33,13 +33,13 @@
             <element>name</element>
             <position>2</position>
             <sys_created_by>jnyika</sys_created_by>
-            <sys_created_on>2018-03-23 16:18:54</sys_created_on>
-            <sys_id>bf02f8dd138d1f00f60ebccf3244b034</sys_id>
+            <sys_created_on>2018-03-28 22:49:06</sys_created_on>
+            <sys_id>945bbffe1341d340f60ebccf3244b000</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_snc_disa_store_funding_thresholds" sys_domain="global" view="Default view">b302f8dd138d1f00f60ebccf3244b01f</sys_ui_section>
             <sys_updated_by>jnyika</sys_updated_by>
-            <sys_updated_on>2018-03-23 16:18:54</sys_updated_on>
+            <sys_updated_on>2018-03-28 22:49:06</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -47,13 +47,13 @@
             <element>year</element>
             <position>3</position>
             <sys_created_by>jnyika</sys_created_by>
-            <sys_created_on>2018-03-23 16:18:54</sys_created_on>
-            <sys_id>3302f8dd138d1f00f60ebccf3244b035</sys_id>
+            <sys_created_on>2018-03-28 22:49:06</sys_created_on>
+            <sys_id>185bbffe1341d340f60ebccf3244b000</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_snc_disa_store_funding_thresholds" sys_domain="global" view="Default view">b302f8dd138d1f00f60ebccf3244b01f</sys_ui_section>
             <sys_updated_by>jnyika</sys_updated_by>
-            <sys_updated_on>2018-03-23 16:18:54</sys_updated_on>
+            <sys_updated_on>2018-03-28 22:49:06</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -61,13 +61,13 @@
             <element>.split</element>
             <position>4</position>
             <sys_created_by>jnyika</sys_created_by>
-            <sys_created_on>2018-03-23 16:18:54</sys_created_on>
-            <sys_id>b302f8dd138d1f00f60ebccf3244b035</sys_id>
+            <sys_created_on>2018-03-28 22:49:06</sys_created_on>
+            <sys_id>a85bbffe1341d340f60ebccf3244b000</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_snc_disa_store_funding_thresholds" sys_domain="global" view="Default view">b302f8dd138d1f00f60ebccf3244b01f</sys_ui_section>
             <sys_updated_by>jnyika</sys_updated_by>
-            <sys_updated_on>2018-03-23 16:18:54</sys_updated_on>
+            <sys_updated_on>2018-03-28 22:49:06</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
@@ -75,13 +75,13 @@
             <element>ceiling_amount</element>
             <position>5</position>
             <sys_created_by>jnyika</sys_created_by>
-            <sys_created_on>2018-03-23 16:18:54</sys_created_on>
-            <sys_id>3702f8dd138d1f00f60ebccf3244b035</sys_id>
+            <sys_created_on>2018-03-28 22:49:06</sys_created_on>
+            <sys_id>2c5bbffe1341d340f60ebccf3244b000</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_snc_disa_store_funding_thresholds" sys_domain="global" view="Default view">b302f8dd138d1f00f60ebccf3244b01f</sys_ui_section>
             <sys_updated_by>jnyika</sys_updated_by>
-            <sys_updated_on>2018-03-23 16:18:54</sys_updated_on>
+            <sys_updated_on>2018-03-28 22:49:06</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -89,41 +89,55 @@
             <element>replenishment_amount</element>
             <position>6</position>
             <sys_created_by>jnyika</sys_created_by>
-            <sys_created_on>2018-03-23 16:18:54</sys_created_on>
-            <sys_id>b702f8dd138d1f00f60ebccf3244b035</sys_id>
+            <sys_created_on>2018-03-28 22:49:06</sys_created_on>
+            <sys_id>ac5bbffe1341d340f60ebccf3244b000</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_snc_disa_store_funding_thresholds" sys_domain="global" view="Default view">b302f8dd138d1f00f60ebccf3244b01f</sys_ui_section>
             <sys_updated_by>jnyika</sys_updated_by>
-            <sys_updated_on>2018-03-23 16:18:54</sys_updated_on>
+            <sys_updated_on>2018-03-28 22:49:06</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>remaining_amount</element>
+            <position>7</position>
+            <sys_created_by>jnyika</sys_created_by>
+            <sys_created_on>2018-03-28 22:49:06</sys_created_on>
+            <sys_id>205bbffe1341d340f60ebccf3244b001</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_disa_store_funding_thresholds" sys_domain="global" view="Default view">b302f8dd138d1f00f60ebccf3244b01f</sys_ui_section>
+            <sys_updated_by>jnyika</sys_updated_by>
+            <sys_updated_on>2018-03-28 22:49:06</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>budget</element>
-            <position>7</position>
+            <position>8</position>
             <sys_created_by>jnyika</sys_created_by>
-            <sys_created_on>2018-03-23 16:18:54</sys_created_on>
-            <sys_id>3b02f8dd138d1f00f60ebccf3244b035</sys_id>
+            <sys_created_on>2018-03-28 22:49:06</sys_created_on>
+            <sys_id>a05bbffe1341d340f60ebccf3244b001</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_snc_disa_store_funding_thresholds" sys_domain="global" view="Default view">b302f8dd138d1f00f60ebccf3244b01f</sys_ui_section>
             <sys_updated_by>jnyika</sys_updated_by>
-            <sys_updated_on>2018-03-23 16:18:54</sys_updated_on>
+            <sys_updated_on>2018-03-28 22:49:06</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.end_split</element>
-            <position>8</position>
+            <position>9</position>
             <sys_created_by>jnyika</sys_created_by>
-            <sys_created_on>2018-03-23 16:18:54</sys_created_on>
-            <sys_id>bb02f8dd138d1f00f60ebccf3244b035</sys_id>
+            <sys_created_on>2018-03-28 22:49:06</sys_created_on>
+            <sys_id>245bbffe1341d340f60ebccf3244b001</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_snc_disa_store_funding_thresholds" sys_domain="global" view="Default view">b302f8dd138d1f00f60ebccf3244b01f</sys_ui_section>
             <sys_updated_by>jnyika</sys_updated_by>
-            <sys_updated_on>2018-03-23 16:18:54</sys_updated_on>
+            <sys_updated_on>2018-03-28 22:49:06</sys_updated_on>
             <sys_user/>
             <type>.end_split</type>
         </sys_ui_element>

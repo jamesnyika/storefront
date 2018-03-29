@@ -22,7 +22,7 @@
         <color display_value="Default Color">de699435d7033100b4964ebfae610331</color>
         <color_palette display_value="Default UI14">aa558ab3d7732100fa6c0c12ce610377</color_palette>
         <colors/>
-        <column>active</column>
+        <column>sys_class_name</column>
         <compute_percent>aggregate</compute_percent>
         <content/>
         <created_by_user display_value="James Nyika">3d4fa1d413412200f60ebccf3244b0dd</created_by_user>
@@ -38,10 +38,9 @@
         <donut_width_percent>50</donut_width_percent>
         <end_time/>
         <exp_report_attrs>true</exp_report_attrs>
-        <field>stage</field>
+        <field>sys_class_name</field>
         <field_list>number,cat_item,stage,request,request.requested_for,request.opened_by,due_date,quantity,contact_type</field_list>
-        <filter table="sc_req_item">cat_item.nameLIKEEnclave<item endquery="false" field="cat_item.name" goto="false" newquery="false" operator="LIKE" or="false" value="Enclave"/>
-        </filter>
+        <filter/>
         <from/>
         <funnel_neck_percent>30</funnel_neck_percent>
         <gauge_autoscale>true</gauge_autoscale>
@@ -70,12 +69,12 @@
         <report_drilldown/>
         <report_source/>
         <roles/>
-        <row>active</row>
+        <row>sys_class_name</row>
         <sc_groupby_item_id/>
         <sc_groupby_variable_id/>
         <sc_stackby_item_id/>
         <sc_stackby_variable_id/>
-        <score_color display_value="Black">65b30218a9fe3dba0120df8611520d97</score_color>
+        <score_color display_value="DimGray">65b30272a9fe3dba00da163b8053479f</score_color>
         <series_name_text/>
         <set_color/>
         <show_chart_border>false</show_chart_border>
@@ -91,27 +90,27 @@
         <show_zero>true</show_zero>
         <source_type>table</source_type>
         <start_time/>
-        <sumfield>price</sumfield>
+        <sumfield>request.price</sumfield>
         <sys_class_name>sys_report</sys_class_name>
         <sys_created_by>jnyika</sys_created_by>
         <sys_created_on>2018-03-23 15:01:28</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
         <sys_id>29502c5d134d1f00f60ebccf3244b047</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_name>Store-Total Value of Enclave Requests</sys_name>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Store-Total Value of Requests</sys_name>
         <sys_package display_value="DISA-Store" source="x_snc_disa_store">b5a0e15e13b09300f60ebccf3244b005</sys_package>
         <sys_policy/>
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="DISA-Store">b5a0e15e13b09300f60ebccf3244b005</sys_scope>
         <sys_update_name>sys_report_29502c5d134d1f00f60ebccf3244b047</sys_update_name>
         <sys_updated_by>jnyika</sys_updated_by>
-        <sys_updated_on>2018-03-23 15:01:28</sys_updated_on>
-        <table>sc_req_item</table>
-        <title>Store-Total Value of Enclave Requests</title>
+        <sys_updated_on>2018-03-29 15:35:19</sys_updated_on>
+        <table>x_snc_disa_store_request_funding</table>
+        <title>Store-Total Value of Requests</title>
         <title_horizontal_alignment>center</title_horizontal_alignment>
         <title_vertical_alignment>top</title_vertical_alignment>
         <to/>
-        <trend_field>sn_hr_le_activity...</trend_field>
+        <trend_field>sys_created_on</trend_field>
         <type>single_score</type>
         <upper_limit/>
         <use_color_heatmap>true</use_color_heatmap>

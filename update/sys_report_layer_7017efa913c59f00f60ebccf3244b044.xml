@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_report_layer">
+    <sys_report_layer action="INSERT_OR_UPDATE">
+        <aggregate>SUM</aggregate>
+        <allow_data_label_overlap>false</allow_data_label_overlap>
+        <bar_unstack>false</bar_unstack>
+        <color display_value="BluePalette_3">01604840d7333100b4964ebfae610321</color>
+        <color_palette display_value="Blues light to dark (5)">b22671cdd7500200b96d45a3ce6103ee</color_palette>
+        <colors/>
+        <compute_percent>aggregate</compute_percent>
+        <custom_config/>
+        <field/>
+        <filter/>
+        <import_table/>
+        <interval>month</interval>
+        <list_ui_view/>
+        <report display_value="Store-Growth Of Value - Requested Enclaves">92e86495138d1f00f60ebccf3244b025</report>
+        <report_source/>
+        <sequence>1</sequence>
+        <series_name_text>Funding Threshold</series_name_text>
+        <set_color>one_color</set_color>
+        <show_2nd_y_axis>false</show_2nd_y_axis>
+        <show_chart_data_label>true</show_chart_data_label>
+        <show_data_label_position_middle>false</show_data_label_position_middle>
+        <show_marker>false</show_marker>
+        <source_type/>
+        <sumfield>ceiling_amount</sumfield>
+        <sys_class_name>sys_report_layer</sys_class_name>
+        <sys_created_by>jnyika</sys_created_by>
+        <sys_created_on>2018-03-25 00:08:16</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>7017efa913c59f00f60ebccf3244b044</sys_id>
+        <sys_mod_count>10</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="DISA-Store" source="x_snc_disa_store">b5a0e15e13b09300f60ebccf3244b005</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="DISA-Store">b5a0e15e13b09300f60ebccf3244b005</sys_scope>
+        <sys_update_name>sys_report_layer_7017efa913c59f00f60ebccf3244b044</sys_update_name>
+        <sys_updated_by>jnyika</sys_updated_by>
+        <sys_updated_on>2018-03-29 15:11:37</sys_updated_on>
+        <table>x_snc_disa_store_funding_thresholds</table>
+        <trend_field>sys_created_on</trend_field>
+        <type>step_line</type>
+        <y_axis_from/>
+        <y_axis_title/>
+        <y_axis_to/>
+    </sys_report_layer>
+</record_update>
